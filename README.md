@@ -10,6 +10,10 @@ I am the core coordinator of Click Club. So, Click Club is a photography hobby c
 
 Click Club desires to make your college years memorable. We document all those beautiful moments you shared at the campus, by covering all the activities and happenings of the college. We organise workshops, photo exhibitions and aim to promote the art of photography.
 
+## TECK STACK
+
+Hypertext Markup Language, Cascading Style Sheets & Javascript.
+
 ![image](https://user-images.githubusercontent.com/52343042/219439369-c5c989f3-53d7-4d80-a4df-d67416a329d7.png)
 ![image](https://user-images.githubusercontent.com/52343042/219439469-c6dbbe3b-6544-44f5-892c-e014efdd8bd9.png)
 ![image](https://user-images.githubusercontent.com/52343042/219439562-5e9906d5-5840-4a36-8f9f-6f780fae03fa.png)
