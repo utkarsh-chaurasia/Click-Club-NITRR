@@ -12,7 +12,7 @@ Click Club desires to make your college years memorable. We document all those b
 
 ## TECK STACK
 
-Hypertext Markup Language, Cascading Style Sheets & Javascript.
+### Hypertext Markup Language, Cascading Style Sheets & Javascript.
 
 ![image](https://user-images.githubusercontent.com/52343042/219439369-c5c989f3-53d7-4d80-a4df-d67416a329d7.png)
 ![image](https://user-images.githubusercontent.com/52343042/219439469-c6dbbe3b-6544-44f5-892c-e014efdd8bd9.png)
