@@ -8,7 +8,9 @@ I am the core coordinator of Click Club. So, Click Club is a photography hobby c
 
 ## INTRODUCTION 
 
-Click Club desires to make college years memorable. We document all those beautiful moments you shared at the campus, by covering all the activities and happenings of the college. We organise workshops, photo exhibitions and aim to promote the art of photography.
+Click Club is the photography club of NIT Raipur. It is a platform for beginners and photography enthusiasts to interact, learn, motivate and nurture their photography skills. It started with the motto of covering all the happenings and activities of the college. Gradually, the club has evolved in all the aspects and today being the most active club of NITRR, it organises a plethora of competitions, workshops and photo exhibitions to promote art of photography among youth. 
+
+Our motto: I dream. I frame. I live. I click.
 
 
 ## TECH STACK
