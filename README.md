@@ -3,7 +3,7 @@
 
 ## ABSTRACT
 
-I am the core coordinator of Click Club. So, Click Club is a photography hobby club of NITRR. They hosted many events throughout the year and I am teaching assisting and guiding the club's executive members. I am also on the technical team of it. Recently I made this official website of this club with the help of team effort. I made this home page while using tech stack of HTML, CSS and JS.
+I am the core coordinator of Click Club. So, Click Club is a photography hobby club of National Institute of Technology, Raipur. They hosted many events throughout the year and I am teaching assisting and guiding the club's executive members. I am also on the technical team of it. Recently I made this official website of this club with the help of team effort. I made this home page while using tech stack of HTML, CSS and JS.
 
 
 ## INTRODUCTION 
